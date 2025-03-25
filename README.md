@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @raspgot
-- 👀 I’m interested in PHP, Javascript, C#, SQL, CSS
-- 🌱 I’m currently learning [Laravel](https://laravel.com/) and [Symfony](https://symfony.com/)
-- 💞️ I’m looking to collaborate on freelance project
-- 📫 How to reach me ? [Just here](https://raspgot.fr)
+# 👋 Hi, I'm @raspgot  
 
-<!---
-raspgot/raspgot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Full-Stack Developer | PHP | JavaScript | C# | SQL | CSS | Linux**  
+
+## 🚀 About Me  
+- Passionate about **development**, **new technologies**, and **Linux systems**.  
+- Specialized in **PHP, JavaScript, SQL, and CSS**.  
+- Currently exploring **[Laravel](https://laravel.com/)** and **[Symfony](https://symfony.com/)**.  
+- Open to **freelance collaborations** and exciting new projects.  
+
+## 🛠 Tech Stack  
+🔹 **Backend:** PHP (Laravel, Symfony), SQL (MySQL, PostgreSQL)  
+🔹 **Frontend:** JavaScript , CSS (Tailwind, Bootstrap, SASS)  
+🔹 **Linux & DevOps:** Shell scripting, Nginx/Apache, Docker, Git, CI/CD  
+🔹 **Others:** REST APIs, Server Management, Security Best Practices  
+
+## 📫 Get in Touch  
+📩 **Email:** [contact@raspgot.fr](mailto:contact@raspgot.fr)  
+🌐 **Portfolio:** [raspgot.fr](https://raspgot.fr)  
