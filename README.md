@@ -6,13 +6,11 @@
 - Passionate about **development**, **new technologies**, and **Linux systems**.  
 - Specialized in **PHP, JavaScript, SQL, and CSS**.  
 - Currently exploring **[Laravel](https://laravel.com/)** and **[Symfony](https://symfony.com/)**.  
-- Open to **freelance collaborations** and exciting new projects.  
 
 ## 🛠 Tech Stack  
-🔹 **Backend:** PHP (Laravel, Symfony), SQL (MySQL, PostgreSQL)  
+🔹 **Backend:** PHP (Laravel, Symfony), SQL (MySQL)  
 🔹 **Frontend:** JavaScript , CSS (Tailwind, Bootstrap, SASS)  
-🔹 **Linux & DevOps:** Shell scripting, Nginx/Apache, Docker, Git, CI/CD  
-🔹 **Others:** REST APIs, Server Management, Security Best Practices  
+🔹 **Linux & DevOps:** Shell scripting, Nginx/Apache, CI/CD  
 
 ## 📫 Get in Touch  
 📩 **Email:** [contact@raspgot.fr](mailto:contact@raspgot.fr)  
